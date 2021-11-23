@@ -1,8 +1,9 @@
-### Olá! No que estou trabalhando agora 😉
 
-- 💻  Atualmente estou trabalhando em ... Estúdiooca
-- 🌱  Atualmente estou aprendendo ... Vue / React / Python / Go 
-- 👯  Estou procurando colaborar ... Compartilhando conhecimento
-- 🤔  Estou procurando ajuda com ... Vue / React / Javascript
-- 💬  Pergunte-me sobre ... Gestão de Produtos Digitais / UX design / Ui design / Product Management / Scrum / Ágil / Marketing digital 
-- 📫  Como me encontrar: ... [andersondcribeiro@gmail.com] (https://estudiooca.com.br)
+### Hello! What am I working on now 😉
+
+- 💻 I am currently working on ... Personal project
+- 🌱 I'm currently learning ... Vue / React / Python
+- 👯 I'm looking to collaborate... Sharing knowledge
+- 🤔 I'm looking for help with ... React / Javascript
+- 💬 Ask me about ... UX/UI / Product Metrics 
+- 📫 How to find me: ... [https://keepo.io/andersondcribeiro-en/]
